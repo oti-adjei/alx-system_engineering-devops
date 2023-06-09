@@ -12,3 +12,4 @@ Task 9- A script that sets the mode of the file hello to this: -rwxr-x-wx
 Task 10-  a script that sets the mode of the file hello the same as olleh’s mode: The file hello will be in the working directory;The file olleh will be in the working directory.
 Task 11- A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 Task 12- A script that creates a directory called my_dir with permissions 751 in the working directory.
+Task 13- A script that changes the group owner to school for the file hello
